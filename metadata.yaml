@@ -1,10 +1,16 @@
 _repo: La-Patria-lontana_48398
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48398-h/images/cover.jpg
 creator:
   author:
     agent_name: Corradini, Enrico
     gutenberg_agent_id: '44778'
     url: http://www.gutenberg.org/2009/agents/44778
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48398#La-Patria-lontana
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2015-03-02'
 gutenberg_type: Text
